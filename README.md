@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DivyanshTiwari20
+- 👋 Hi, I’m Divyansh
 - 👀 I’m interested in Sex
 - 🌱 I’m currently learning how to learn fast
 - 💞️ I’m looking to collaborate on anything that can get me some money or experience.
