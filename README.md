@@ -43,7 +43,7 @@ class Divyansh:
 - 🌟 Contributing to Open Source
 - 📊 Exploring Machine Learning & Data Science
 - 🎓 GSoC '24 Aspirant
-
+<!--
 ### ⭐ Featured Projects
 <div align="center">
 
@@ -57,7 +57,7 @@ class Divyansh:
     <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="GitHub Streak" />
 </div>
-
+-->
 ---
 
 <div align="center">
