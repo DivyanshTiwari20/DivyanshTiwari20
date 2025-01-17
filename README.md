@@ -1,12 +1,27 @@
-- 👋 Hi, I’m Divyansh
-- 👀 I’m interested in Sex
-- 🌱 I’m currently learning how to learn fast
-- 💞️ I’m looking to collaborate on anything that can get me some money or experience.
-- 📫 You can connect with me on X(twitter) or on Linkdin.
-- 😄 Gender: Male(straight as my dick) 
-- ⚡ Fun fact: Newton was gay that's why he never married.
+<h1 align="center">Hi 👋, I'm Divyansh Tiwari</h1>
 
-<!---
-DivyanshTiwari20/DivyanshTiwari20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 About Me
+Full Stack Developer and CS Student passionate about ML/AI and solving real-world problems through code. Building projects that matter, one commit at a time.
+
+### 🛠️ Tech Stack
+- Languages: Python, JavaScript, C
+- Web: MERN Stack, React.js, Node.js
+- AI/ML: RAG Applications, LLM Fine-tuning
+- Tools: Git, Linux, UI/UX Design
+
+### 🔭 Current Focus
+- Building AI-powered applications
+- Contributing to Open Source
+- Exploring Machine Learning & Data Science
+- GSoC '24 Aspirant
+
+### 🌟 Featured Projects
+- [Zero to Python](link) - 100+ curated programming challenges
+- [Edumate](link) - AI-powered educational support system
+- [Swastya](link) - Medical chatbot for health queries
+
+### 📫 Connect With Me
+- Portfolio: [divyansh-six.vercel.app](https://divyansh-six.vercel.app/)
+- LinkedIn: [Divyansh Tiwari](your-linkedin-link)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
