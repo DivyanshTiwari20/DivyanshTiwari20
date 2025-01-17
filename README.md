@@ -47,7 +47,7 @@ class Divyansh:
 ### ⭐ Featured Projects
 <div align="center">
 
-[![Zero to Python](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=zero-to-python&theme=radical)](GitHub-Repo-Link)
+[![Zero to Python](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=zero-to-python&theme=radical)]([GitHub-Repo-Link](https://github.com/DivyanshTiwari20/edumate))
 [![Edumate](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=edumate&theme=radical)](GitHub-Repo-Link)
 [![Swastya](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=swastya&theme=radical)](GitHub-Repo-Link)
 
