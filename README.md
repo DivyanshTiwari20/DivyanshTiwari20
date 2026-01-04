@@ -1,1 +1,1 @@
-21, Male | Full stack dev and ML enthusiast. I like to build.
+23, Male | Software Engineer and Full stack dev | ML enthusiast. I like to build.
